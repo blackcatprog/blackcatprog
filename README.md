@@ -16,5 +16,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/sublime%20text-%234D4D4D.svg?&style=for-the-badge&logo=sublimetext&logoColor=%23FF9800">
-  <img src="(https://img.shields.io/badge/visual%20studio%20code-%23333333.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=%23008BD6">
+  <img src="https://img.shields.io/badge/visual%20studio%20code-%23333333.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=%23008BD6">
 </p>
