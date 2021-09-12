@@ -10,4 +10,5 @@
   <!-- ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
   <img src="https://img.shields.io/badge/sublime%20text-%234D4D4D.svg?&style=for-the-badge&logo=sublimetext&logoColor=%23FF9800">
   <img src="https://img.shields.io/badge/visual%20studio%20code-%23333333.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=%23008BD6">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2302192D.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=%23008BD6">
 </p>
