@@ -8,7 +8,4 @@
   <img src="https://img.shields.io/badge/css3-%230280C8.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/less-%2327538D.svg?&style=for-the-badge&logo=less&logoColor=white">
   <!-- ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
-  <img src="https://img.shields.io/badge/sublime%20text-%234D4D4D.svg?&style=for-the-badge&logo=sublimetext&logoColor=%23FF9800">
-  <img src="https://img.shields.io/badge/visual%20studio%20code-%23333333.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=%23008BD6">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2302192D.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=%23008BD6">
 </p>
