@@ -1,6 +1,7 @@
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackcatprog&langs_count=6&hide=makefile,nesc,cmake&hide_border=true&layout=compact&bg_color=0d1117&text_color=fff)
 
-### 👨‍💻 Languages and tools
+<!--
+## 👨‍💻 Languages and tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-%23333333.svg?&style=for-the-badge&logo=python&logoColor=blue">
